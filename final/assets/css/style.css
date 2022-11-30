@@ -215,7 +215,9 @@ html, body {
     animation-name: wave;
 	animation-duration: 3s;
     animation-timing-function: ease;
+    animation-iteration-count: 5;
 	}
+
 
 .prod.two {
     animation-delay: 0.25s, 0s;
